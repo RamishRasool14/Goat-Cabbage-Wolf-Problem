@@ -17,5 +17,5 @@ Created a tree to represent all possible states of the game
 
 BFS search and A* search of the tree to find the optimal path to goal state
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/RamishRasool14/Goat-Cabbage-Wolf-Problem/blob/main/ProblemDescription.png)
 
